@@ -1,28 +1,28 @@
 ---
-title: "NIOZ Python kick-start"
+title: "Set-up instructions"
 ---
 
 Please follow the instructions below to set up Visual Studio Code (VS Code) and make other preparations on your computer before coming to the NIOZ Python kick-start training.
 
 ## Make a GitHub account
 
-If you don't already have one, make a GitHub account at [github.com/signup](https://github.com/signup).
+If you don't already have one, [make a GitHub account](https://github.com/signup).
 
 > Whatever username you choose will appear in the web links to all your projects: github.com/username/project
 
 ## Download and install VS Code
 
-Download and install VS Code from [code.visualstudio.com/download](https://code.visualstudio.com/download).
+[Download and install VS Code](https://code.visualstudio.com/download).
 
 Open VS Code.
 
-***First time opening instructions here - the auto screens that come up and logging in to GitHub.***
+***Add first time opening instructions here - the auto screens that come up and logging in to GitHub.***
 
-## Install pixi
+## Install Pixi
 
-Open the integrated Terminal with {{< kbd Control-` >}} or by clicking on View > Terminal.
+In VS Code, open the integrated Terminal with {{< kbd Control-` >}} or by clicking on View > Terminal.
 
-Install pixi by copying the following into the Terminal and pressing {{< kbd Enter >}}:
+Install [Pixi](https://pixi.prefix.dev/latest/) by copying the following into the Terminal and pressing {{< kbd Enter >}}:
 
 *If you are using Windows:*
 
@@ -38,9 +38,9 @@ wget -qO- https://pixi.sh/install.sh | sh
 
 ## Install VS Code extensions
 
-Open the *Extensions* sidebar with {{< kbd mac=Shift-Command-X win=Shift-Control-X linux=Shift-Ctrl-X >}} or by clicking on View > Extensions.
+In VS Code, open the *Extensions* sidebar with {{< kbd mac=Shift-Command-X win=Shift-Control-X linux=Shift-Ctrl-X >}} or by clicking on View > Extensions.
 
-In the *Extensions* sidebar, search for and click to install:
+In the *Extensions* sidebar on the left, search for and click to install:
 
   - Python (publisher: Microsoft)
   - Jupyter (publisher: Microsoft)
