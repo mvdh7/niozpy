@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NIOZ Python kick-start",
+    "section": "",
+    "text": "Please follow the instructions below to set up Visual Studio Code (VS Code) and make other preparations on your computer before coming to the NIOZ Python kick-start training."
+  },
+  {
+    "objectID": "index.html#make-a-github-account",
+    "href": "index.html#make-a-github-account",
+    "title": "NIOZ Python kick-start",
+    "section": "Make a GitHub account",
+    "text": "Make a GitHub account\nIf you don’t already have one, make a GitHub account at github.com/signup.\n\nWhatever username you choose will appear in the web links to all your projects: github.com/username/project"
+  },
+  {
+    "objectID": "index.html#download-and-install-vs-code",
+    "href": "index.html#download-and-install-vs-code",
+    "title": "NIOZ Python kick-start",
+    "section": "Download and install VS Code",
+    "text": "Download and install VS Code\nDownload and install VS Code from code.visualstudio.com/download.\nOpen VS Code.\nFirst time opening instructions here - the auto screens that come up and logging in to GitHub."
+  },
+  {
+    "objectID": "index.html#install-pixi",
+    "href": "index.html#install-pixi",
+    "title": "NIOZ Python kick-start",
+    "section": "Install pixi",
+    "text": "Install pixi\nOpen the integrated Terminal with Control-`Control-` or by clicking on View &gt; Terminal.\nInstall pixi by copying the following into the Terminal and pressing EnterEnter:\nIf you are using Windows:\npowershell -ExecutionPolicy Bypass -c \"irm -useb https://pixi.sh/install.ps1 | iex\"\nOr, if you are using Mac or Linux:\nwget -qO- https://pixi.sh/install.sh | sh"
+  },
+  {
+    "objectID": "index.html#install-vs-code-extensions",
+    "href": "index.html#install-vs-code-extensions",
+    "title": "NIOZ Python kick-start",
+    "section": "Install VS Code extensions",
+    "text": "Install VS Code extensions\nOpen the Extensions sidebar with  or by clicking on View &gt; Extensions.\nIn the Extensions sidebar, search for and click to install:\n\nPython (publisher: Microsoft)\nJupyter (publisher: Microsoft)\nPixi Code (publisher: renan-r-santos)\nRuff (publisher: Astral Software)"
+  }
+]
